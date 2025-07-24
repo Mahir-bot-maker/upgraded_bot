@@ -4,7 +4,7 @@ Bu botun ana amacı _pokemon savaşları_ olduğu için iki tane komut vardır
 1. Komut: /go
 2. Komut: /attack (sunucudaki başka bir kullanıcını adı)                                 (@ işareti ismin başında olmalıdır)
 
-# İşleveri
+# İşlevleri
  "go" komutu bir _pokemon_ yapar.
  "attack" komutu ise ismini yazdığınız kullanıcıya saldırır! (Tabii onun da bir pokemonu varsa.)
 
